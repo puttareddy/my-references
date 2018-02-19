@@ -12,6 +12,12 @@
 
 https://github.com/joshlong/bootiful-microservices
 
+## Reactive Spring
+https://www.youtube.com/watch?v=zVNIZXf4BG8&t=455s
+
+## Docker Swarm vs Kubernetes by Arun Gupta
+[![Kubernetes vs Docker Swarm](./k-vs-d.JPG)](https://www.youtube.com/watch?v=1dgUXNVQS5o&t=40s)
+
 
 
 
