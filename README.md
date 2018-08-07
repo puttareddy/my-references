@@ -24,7 +24,9 @@ https://www.youtube.com/watch?v=zVNIZXf4BG8&t=455s
 ## Docker Swarm vs Kubernetes by Arun Gupta
 [![Kubernetes vs Docker Swarm](./k-vs-d.jpg)](https://www.youtube.com/watch?v=1dgUXNVQS5o&t=40s)
 
-
+## What is istio?
+https://www.youtube.com/watch?v=8OjOGJKM98o
+https://github.com/thesandlord/Istio101
 
 
 
