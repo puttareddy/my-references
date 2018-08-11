@@ -29,6 +29,8 @@ https://www.youtube.com/watch?v=zVNIZXf4BG8&t=455s
 ## What is JWT token?
 https://www.youtube.com/watch?v=67mezK3NzpU
 
+## Machine Learning
+https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal
 
 
 
