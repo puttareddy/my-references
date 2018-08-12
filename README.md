@@ -21,6 +21,9 @@ https://github.com/joshlong/bootiful-microservices
 ## Deploy pod with Kubernetes using Helm
 https://www.youtube.com/watch?v=xfdEXcN8vUY&t=32s
 
+## Kubernetes Configmaps and Secretes
+https://www.youtube.com/watch?v=N41ZwsORs_g&list=PLj_IGCS9P2SkmHxS8-i24azCIGEneJQrA&index=5
+
 ## What is the fun with istio?
 https://www.youtube.com/watch?v=8OjOGJKM98o
 
