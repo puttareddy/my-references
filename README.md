@@ -18,6 +18,9 @@ https://github.com/joshlong/bootiful-microservices
 ## Docker Swarm vs Kubernetes by Arun Gupta
 [![Kubernetes vs Docker Swarm](./k-vs-d.jpg)](https://www.youtube.com/watch?v=1dgUXNVQS5o&t=40s)
 
+## Deploy pod with Kubernetes using Helm
+https://www.youtube.com/watch?v=xfdEXcN8vUY&t=32s
+
 ## What is the fun with istio?
 https://www.youtube.com/watch?v=8OjOGJKM98o
 
