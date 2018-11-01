@@ -7,6 +7,9 @@
 ## What is OAuth 2.0
 [![What is OAuth](./OAuth.png)](https://www.youtube.com/watch?v=LRNg4tDtrkE)
 
+## OAuth grant types
+https://www.youtube.com/watch?v=1ZX7554l8hY
+
 ## Get started with Spring Boot by Josh Long
 [![Spring Boot](./spring-boot.png)](https://www.youtube.com/watch?v=SFDYdslOvu8)
 
