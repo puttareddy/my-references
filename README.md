@@ -41,5 +41,14 @@ https://www.youtube.com/watch?v=67mezK3NzpU
 ## Machine Learning
 https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal
 
+## Cloud Operations tools comparision
+https://blog.gruntwork.io/why-we-use-terraform-and-not-chef-puppet-ansible-saltstack-or-cloudformation-7989dad2865c
+
+## AWS workshop
+https://www.youtube.com/watch?v=t4hDoMvxMWk&list=PLvmxnsCyoh64kn_H-7OJGubNMQhJzOmbh&index=1
+
+## Terraform intro
+https://www.youtube.com/watch?v=IxA1IPypzHs&feature=youtu.be
+
 
 
