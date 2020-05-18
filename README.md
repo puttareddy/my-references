@@ -47,8 +47,12 @@ https://blog.gruntwork.io/why-we-use-terraform-and-not-chef-puppet-ansible-salts
 ## AWS workshop
 https://www.youtube.com/watch?v=t4hDoMvxMWk&list=PLvmxnsCyoh64kn_H-7OJGubNMQhJzOmbh&index=1
 
+## AWS Overview
+https://www.youtube.com/watch?v=Z3SYDTMP3ME&t=1252s
+
 ## Terraform intro
 https://www.youtube.com/watch?v=IxA1IPypzHs&feature=youtu.be
+
 
 
 
