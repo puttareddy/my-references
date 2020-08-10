@@ -56,6 +56,9 @@ https://www.youtube.com/watch?v=0T8WJ_xq8hU&list=PLGyRwGktEFqeqlHxUk6jVlbavPhiu9
 ## Terraform intro
 https://www.youtube.com/watch?v=IxA1IPypzHs&feature=youtu.be
 
+## Salt Stack demo
+https://www.youtube.com/channel/UCuE6FxD86hgHhh_l5bK-1VQ
+
 
 
 
