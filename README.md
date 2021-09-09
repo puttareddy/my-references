@@ -60,5 +60,9 @@ https://www.youtube.com/watch?v=IxA1IPypzHs&feature=youtu.be
 https://www.youtube.com/channel/UCuE6FxD86hgHhh_l5bK-1VQ
 
 
+## DevOps tools comparision
+https://blog.gruntwork.io/why-we-use-terraform-and-not-chef-puppet-ansible-saltstack-or-cloudformation-7989dad2865c
 
+## Kubernetes guide with samples
+https://www.youtube.com/watch?v=L_o_CG_AGKA&list=PLHq1uqvAteVtq-NRX3yd1ziA_wJSBu3Oj
 
