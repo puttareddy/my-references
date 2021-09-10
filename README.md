@@ -66,3 +66,6 @@ https://blog.gruntwork.io/why-we-use-terraform-and-not-chef-puppet-ansible-salts
 ## Kubernetes guide with samples
 https://www.youtube.com/watch?v=L_o_CG_AGKA&list=PLHq1uqvAteVtq-NRX3yd1ziA_wJSBu3Oj
 
+## AWS cheat sheet
+https://tutorialsdojo.com/aws-cheat-sheets/
+
