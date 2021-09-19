@@ -41,6 +41,9 @@ https://www.youtube.com/watch?v=67mezK3NzpU
 ## Machine Learning
 https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal
 
+## Car price prediction live
+https://www.youtube.com/watch?v=p_tpQSY1aTs
+
 ## Cloud Operations tools comparision
 https://blog.gruntwork.io/why-we-use-terraform-and-not-chef-puppet-ansible-saltstack-or-cloudformation-7989dad2865c
 
