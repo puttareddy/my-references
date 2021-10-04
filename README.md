@@ -56,6 +56,8 @@ https://www.youtube.com/watch?v=Z3SYDTMP3ME&t=1252s
 ## AWS API Gateway security mechanisams
 https://www.youtube.com/watch?v=0T8WJ_xq8hU&list=PLGyRwGktEFqeqlHxUk6jVlbavPhiu9kP8&index=12&t=0s
 
+https://www.youtube.com/watch?v=XZbvQWkpJTI&list=RDCMUC1Yf7IBfhSNFTIyb7v83o_g&start_radio=1&rv=XZbvQWkpJTI&t=11
+
 ## Terraform intro
 https://www.youtube.com/watch?v=IxA1IPypzHs&feature=youtu.be
 
