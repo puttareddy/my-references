@@ -81,3 +81,5 @@ https://cml.dev/
 
 https://dvc.org/doc/start
 
+https://towardsdatascience.com/mlops-with-mlflow-and-amazon-sagemaker-pipelines-33e13d43f238
+
