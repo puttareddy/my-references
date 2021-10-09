@@ -74,3 +74,10 @@ https://www.youtube.com/watch?v=L_o_CG_AGKA&list=PLHq1uqvAteVtq-NRX3yd1ziA_wJSBu
 ## AWS cheat sheet
 https://tutorialsdojo.com/aws-cheat-sheets/
 
+## What is MLOps
+https://towardsdatascience.com/what-is-mlops-everything-you-must-know-to-get-started-523f2d0b8bd8
+
+https://cml.dev/
+
+https://dvc.org/doc/start
+
